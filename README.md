@@ -25,7 +25,8 @@ Analyze sales data to identify:
 Examining and analyzing the employees' data to:
 - Determine the rate of Attrition among team members
 - Uncover the factors responsible for Attrition in specific organisations and the rate of Attrition as caused by those factors
-- Create Visualizations to present findings effectively showing the ability to manipulate and derive insights from large datasets, enabling to make data-driven recommendations for optimizing business organisation
+- Create Visualizations to present findings effectively showing the ability to manipulate and derive insights from large datasets, enabling to make data-driven recommendations for optimizing business organisation.
+
 **Business Task:**
 Analyze the data to determine:
 - Total employee count and the Percentage rate of Attrition
